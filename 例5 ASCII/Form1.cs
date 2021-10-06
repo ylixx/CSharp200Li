@@ -72,6 +72,7 @@ namespace 例5_ASCII
                     MessageBox.Show(ex.Message+"请输入正确的汉字","出错！");
                     throw;
                 }
+
             }
         }
         public string getCode(string Chinese)

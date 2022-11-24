@@ -10,7 +10,7 @@ using System;
 
 namespace Class_Study
 {
-	class Box
+	public class Box
 	{
 		public double length;
 		public double breadth;

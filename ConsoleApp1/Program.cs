@@ -2,6 +2,7 @@
 
 
 delegate int NumberChanger(int n);
+
 namespace ConsoleApp1
 {
     class Testdelegate
